@@ -43,69 +43,69 @@ timezone:      null
 
 
 #Site config
-title: Jekyll Theme
-description: Just another Jekyll theme design and code by zhanxin.info.
-keywords: Jekyll Theme
-url: /StrayBirds
+title: Übermensch
+description: Community Service - Übermensch
+keywords: Community Service Übermensch
+url: /CommunityServiceBlog-Ubermensch
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
 #Nav config
 nav:
-  - text: 首页
+  - text: Home
     url: index.html
-  - text: 分类目录 
+  - text: Categories
     url: navigations/categories.html
-  - text: 文章归档
+  - text: Archives
     url: navigations/archives.html
-  - text: 联系我
+  - text: Contact
     url: navigations/contact.html
-  - text: 友情链接
+  - text: Links
     url: navigations/links.html
 
 #Author config
 author:
-    name: minixalpha
-    email: xkzbeta@outlook.comment
-    imageLink: https://avatars.githubusercontent.com/minixalpha
-    simpleIntro: 我是 minixalpha
+    name: Übermensch
+    email: 15033996@imail.sunway.edu.my
+    imageLink: https://res.cloudinary.com/teepublic/image/private/s--C38zCfw2--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1463551548/production/designs/515178_1.jpg
+    simpleIntro: We are team Übermensch. 
     detailIntro:
-      <p>Jekyll 是一个简洁的、特别针对博客平台的 静态网站 生成器。它使用一个模板目录作为网站布局的基础框架，并在其上运行 Textile 、 Markdown 或 Liquid 标记语言的转换器，最终生成一个完整的静态Web站点，可以被放置在Apache或者你喜欢的其他任何Web服务器上。它同时也是 GitHub Pages 、一个由 GitHub 提供的用于托管项目主页或博客的服务，在后台所运行的引擎。</p>
-      <p>很早之前，使用过 wordpress 来写博客。但是还要处理很多的底层问题。而使用 Jekyll 来写博客，可以很简单，写 Markdown 就好。然而，Jekyll 还很年轻，没有很多主题的支持。这里的主题，就是为 Jekyll 而写的。希望你能喜欢。</p>
+      <p>Übermensch, a concept from one of the most influencial german philosopher Friedrich Nietzsche, envision about human who are psychologically more superior than what they are now.</p>
+      <p>The Übermensch is the ultimate realization of the Will to Power, but no necessarily over others. His most valuable power is over himself. "He cannot rule himself will certainty be ruled by others"- Nietzsche.</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
-  - class: icon-rss
-    url: /atom.xml
-  - class: icon-weibo
-    url: http://weibo.com
-  - class: icon-renren
-    url: http://renren.com
+  # - class: icon-rss
+  #   url: /atom.xml
+  # - class: icon-weibo
+  #   url: http://weibo.com
+  # - class: icon-renren
+  #   url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com
-  - class: icon-twitter
-    url: http://twitter.com
-  - class: icon-google-plus
-    url: http://google.com
+    url: http://github.com/gaara4896/CommunityServiceBlog-Ubermenschs
+  # - class: icon-twitter
+  #   url: http://twitter.com
+  # - class: icon-google-plus
+  #   url: http://google.com
 
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends
+    - text: Official Website
+      url: http://www.kechara.com/soup-kitchen/
+   - text: Facebook
+      url: https://www.facebook.com/KSKPage
+    # - text: jQuery
+    #   url: http://jquery.com/
+    message: Kechara Food Kitchen
   - item:
-    - text: Font Awesome
-      url: http://fortawesome.github.io/Font-Awesome/
-    - text: Google Font
-      url: http://www.google.com/fonts/
-    - text: jQuery
-      url: http://jquery.com/
-    message: 其他相关链接
+    - text: Übermensch
+      url: https://en.wikipedia.org/wiki/%C3%9Cbermensch
+    - text: Friedrich Nietzsche
+      url: https://en.wikipedia.org/wiki/Friedrich_Nietzsche
+    # - text: Jekyll Theme
+    #   url: http://www.zhanxin.info/themes.html
+    message: Reference
 
 #comment config
 disqus:
@@ -115,13 +115,13 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
-baseurl: /StrayBirds
+username: gaara4896
+baseurl: /CommunityServiceBlog-Ubermensch
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: Übermensch
+description: Become a better version of ourselves
 theme: kunka
 disqusname: minixalpha
 
