@@ -58,8 +58,8 @@ nav:
     url: navigations/categories.html
   - text: Archives
     url: navigations/archives.html
-  - text: Contact
-    url: navigations/contact.html
+  - text: About Us
+    url: navigations/aboutus.html
   - text: Links
     url: navigations/links.html
 
@@ -72,6 +72,7 @@ author:
     detailIntro:
       <p>Ubermensch, a concept from one of the most influencial german philosopher Friedrich Nietzsche, envision about human who are psychologically more superior than what they are now.</p>
       <p>The Ubermensch is the ultimate realization of the Will to Power, but no necessarily over others. His most valuable power is over himself. "He cannot rule himself will certainty be ruled by others"- Nietzsche.</p>
+      <p>Team Member - Ong Zhu Siang, Ng Wei Shyang, Cham She Kun, Neoh Wei, Teong Hock Lean</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
