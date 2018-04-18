@@ -75,36 +75,22 @@ author:
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
-  # - class: icon-rss
-  #   url: /atom.xml
-  # - class: icon-weibo
-  #   url: http://weibo.com
-  # - class: icon-renren
-  #   url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/gaara4896/CommunityServiceBlog-Ubermenschs
-  # - class: icon-twitter
-  #   url: http://twitter.com
-  # - class: icon-google-plus
-  #   url: http://google.com
+    url: http://github.com/gaara4896/CommunityServiceBlog-Ubermensch
 
 #Links
 customLinks:
   - item:
     - text: Official Website
       url: http://www.kechara.com/soup-kitchen/
-   - text: Facebook
+    - text: Facebook
       url: https://www.facebook.com/KSKPage
-    # - text: jQuery
-    #   url: http://jquery.com/
     message: Kechara Food Kitchen
   - item:
     - text: Übermensch
       url: https://en.wikipedia.org/wiki/%C3%9Cbermensch
     - text: Friedrich Nietzsche
       url: https://en.wikipedia.org/wiki/Friedrich_Nietzsche
-    # - text: Jekyll Theme
-    #   url: http://www.zhanxin.info/themes.html
     message: Reference
 
 #comment config
