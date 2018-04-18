@@ -43,9 +43,9 @@ timezone:      null
 
 
 #Site config
-title: Übermensch
-description: Community Service - Übermensch
-keywords: Community Service Übermensch
+title: Ubermensch
+description: Community Service - Ubermensch
+keywords: Community Service Ubermensch
 url: /CommunityServiceBlog-Ubermensch
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
@@ -65,13 +65,13 @@ nav:
 
 #Author config
 author:
-    name: Übermensch
+    name: Ubermensch
     email: 15033996@imail.sunway.edu.my
     imageLink: https://res.cloudinary.com/teepublic/image/private/s--C38zCfw2--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1463551548/production/designs/515178_1.jpg
-    simpleIntro: We are team Übermensch. 
+    simpleIntro: We are team Ubermensch. 
     detailIntro:
-      <p>Übermensch, a concept from one of the most influencial german philosopher Friedrich Nietzsche, envision about human who are psychologically more superior than what they are now.</p>
-      <p>The Übermensch is the ultimate realization of the Will to Power, but no necessarily over others. His most valuable power is over himself. "He cannot rule himself will certainty be ruled by others"- Nietzsche.</p>
+      <p>Ubermensch, a concept from one of the most influencial german philosopher Friedrich Nietzsche, envision about human who are psychologically more superior than what they are now.</p>
+      <p>The Ubermensch is the ultimate realization of the Will to Power, but no necessarily over others. His most valuable power is over himself. "He cannot rule himself will certainty be ruled by others"- Nietzsche.</p>
 
 #Follow me, you can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
 follow:
@@ -87,7 +87,7 @@ customLinks:
       url: https://www.facebook.com/KSKPage
     message: Kechara Food Kitchen
   - item:
-    - text: Übermensch
+    - text: Ubermensch
       url: https://en.wikipedia.org/wiki/%C3%9Cbermensch
     - text: Friedrich Nietzsche
       url: https://en.wikipedia.org/wiki/Friedrich_Nietzsche
@@ -106,7 +106,7 @@ baseurl: /CommunityServiceBlog-Ubermensch
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: Übermensch
+title: Ubermensch
 description: Become a better version of ourselves
 theme: kunka
 disqusname: minixalpha
