@@ -23,7 +23,7 @@ Therefore, Kechara Food Kitchen had collaborate with Tesco for donating the food
 
 What we are going to do is we will go to Kechara Soup Kitchen office for a briefing, and we will drive to a Tesco and collect surplus food from them. After collecting, we will sending them to Kechara Soup Kitchen. 
 
-The briefing will start at 1330, and the period of surplus pick up will be from 1400 to 1800.
+The briefing will start at 1400, and the period of surplus pick up will be from 1430 to 1800.
 
 ### Food distribution at Medan Tuanku or Anjung Singgah
 
