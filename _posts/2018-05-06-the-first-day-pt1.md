@@ -45,15 +45,17 @@ Ong, Teong and Xytro went to Xytro car and depart from the location. As Xytro ar
 
 *Fun Fact: They went to the wrong route as much as 4 times before reaching the destination*
 
-[Images of Ong holding camera, Xytro driving while Teong siting at the back of the car](https://github.com/gaara4896/CommunityServiceBlog-Ubermensch/blob/gh-pages/images/20180505/20180505.md#driving-to-tesco)
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/driving_to_tesco.jpg" alt="Ong holding camera, Xytro driving while Teong siting at the back of the car" %}
 
 Finally, they reach the loading bay of the Tesco Damansara. It is raining at that time.
 
-[Images of Damansara Tesco loading bay](https://github.com/gaara4896/CommunityServiceBlog-Ubermensch/blob/gh-pages/images/20180505/20180505.md#tesco-damansara-loading-bay)
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/tesco_damansara_loading_bay.jpeg" alt="Damansara Tesco loading bay" %}
 
 They then start loading all the food into the recycle bag that had given to us. There had been a lot of food that needed for them to load, so it took them quite a while to do that. Fianlly, everything had been loaded to the car.
 
-[Images of car loaded with food](https://github.com/gaara4896/CommunityServiceBlog-Ubermensch/blob/gh-pages/images/20180505/20180505.md#car-1-loaded-with-food)
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car1_food1.JPG" alt="Car loaded with food" %}
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car1_food2.JPG" alt="Car loaded with food" %}
 
 The whole car is full of food now. 
 
@@ -71,13 +73,15 @@ Neoh and I also depart to Kepong Tesco with Neoh's car. Both of us use Waze too 
 
 Finally we had reach the Kepong Tesco. 
 
-[Image of Tesco Kepong loading bay](https://github.com/gaara4896/CommunityServiceBlog-Ubermensch/blob/gh-pages/images/20180505/20180505.md#tesco-kepong-loading-bay)
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/tesco_kepong_loading_bay.jpg" alt="Tesco Kepong loading bay" %}
 
 We had been told by the person in charge to wait for a while. So we wait there for around 10-20 minutes. 
 
 Finally they come out with the food that needed to deliver. We then do the same thing, which is pack them into the recycle bag and load it into the car.
 
-[Image of car loaded with food](https://github.com/gaara4896/CommunityServiceBlog-Ubermensch/blob/gh-pages/images/20180505/20180505.md#car-2-loaded-with-food)
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car2_food1.jpg" alt="Car loaded with food" %}
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car2_food2.jpg" alt="Car loaded with food" %}
 
 The food from Tesco Kepong are relatively lesser than the amount of food from Tesco Damansara. Could it be pure luck or faith had lead us to the Tesco with lesser food? If we went to the Tesco Damansara, the car might not be big enough to fetch. 
 
@@ -87,7 +91,7 @@ We then depart from Tesco Kepong to the same destination with the other group.
 
 Finally both of us had reach the destination and unload all the food to the person in charge. 
 
-[Image of food delivered to destination](https://github.com/gaara4896/CommunityServiceBlog-Ubermensch/blob/gh-pages/images/20180505/20180505.md#food-delivered)
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/food_delivered.JPG" alt="Food delivered" %}
 
 There are so many surplus food from Tesco every single day. Imagine if Tesco would not had collaborate with Kechara Food Kitchen, all of these food which are still consumeable would went to waste. Sometimes, solving a issue does not necessary mean that we need to solve it in the global scale, by these two parties simply collaborating with each other, numbers of people had benefited from it and hence creating a happier and better world. 
 

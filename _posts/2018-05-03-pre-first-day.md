@@ -17,7 +17,7 @@ There are several program from Kechara food kitchen, but below will be what we w
 
 ### Food surplus pick up from Tesco
 
-Food wastage is one of the very serious problem in today world. There are tons of food wastage every single day. Imagine homeless eldery sleeping in the street, starving, have literally not enough or no food at all, meanwhile at the opposite side of the street, a restaurant stuff throwing all the food surplus into the rubish can. These food could have been make better used, which is giving it to people who need them. 
+Food wastage is one of the very serious problem in today world. There are tons of food wastage every single day. Imagine homeless elderly sleeping in the street, starving, have literally not enough or no food at all, meanwhile at the opposite side of the street, a restaurant staff throwing all the food surplus into the rubish bin. These food could have been make better used, which is giving it to people who need them. 
 
 Therefore, Kechara Food Kitchen had collaborate with Tesco for donating the food surplus from Tesco to the Urban Poor family. As to my understanding, this is one part of the food bank program from Kechara Food Kitchen. It do not only solve the problem of food wastage, it too partly solve urban poor problem, satifying their survival need. 
 
