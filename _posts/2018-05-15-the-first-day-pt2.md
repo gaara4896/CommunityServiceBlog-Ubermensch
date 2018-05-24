@@ -31,7 +31,7 @@ The briefing then starts few minutes after we arrive. The person who in charge f
 
 {% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/briefing1.JPG" alt="Briefing" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/briefing1.JPG" alt="Briefing" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/briefing2.JPG" alt="Briefing" %}
 
 After that, she move on with briefing us about a lot of things, which include what we might be our responsibilities, the job scope, information about the venue, reason of homeless being homeless, things that we need to be careful of, etc. 
 
