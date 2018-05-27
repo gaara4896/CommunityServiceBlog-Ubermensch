@@ -23,63 +23,65 @@ The Tesco that are assigned for us is Tesco Kepong and Tesco Damansara. Accordin
 
 ### Tesco Damansara
 
+3 of us then depart form the venue to Tesco Damansara. We open up the Waze and follow the route being assigned by Waze and play some music from Spotify. Some of the road are having traffic jam due to the rain, so it took us some time to reach the destination. 
 
+After slightly more than half an hour, we reach the entrance of the loading bay of Tesco Damansara. 
 
-### Tesco Damansara
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_damansara_entrance.JPG" alt="Tesco Damansara loading bay entrance" %}
 
-Ong, Teong and Xytro went to Xytro car and depart from the location. As Xytro are not familiar with the direction, the uses Waze to lead them to the destination. 
+Due to the rain, the guard is not beside the entrance. So, we contact the Kechara person in charge. few minute later, the guard came and open the gate for us. 
 
-*Fun Fact: They went to the wrong route as much as 4 times before reaching the destination*
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_damansara_loading_bay1.JPG" alt="Tesco Damansara loading bay" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/driving_to_tesco.jpg" alt="Ong holding camera, Xytro driving while Teong siting at the back of the car" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_damansara_loading_bay2.JPG" alt="Tesco Damansara loading bay" %}
 
-Finally, they reach the loading bay of the Tesco Damansara. It is raining at that time.
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_damansara_loading_bay3.JPG" alt="Tesco Damansara loading bay" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/tesco_damansara_loading_bay.jpeg" alt="Damansara Tesco loading bay" %}
+The person in charge then open up the gate from the inside of shopping mall towards the loading bay to let us collect the food surplus. 
 
-They then start loading all the food into the recycle bag that had given to us. There had been a lot of food that needed for them to load, so it took them quite a while to do that. Fianlly, everything had been loaded to the car.
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_damansara_food_pickup.JPG" alt="Xytro picking up the food into recycle bag provided" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car1_food1.JPG" alt="Car loaded with food" %}
+All of those green basket are filled with food surplus. We then fill up the recycle bag provided by Kechara Food Kitchen we the food in those basket. There's a lot of food surplus, so much so that it is more than our car can fit. At the end, there are 3 basket left which we are unable to load it into our car. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car1_food2.JPG" alt="Car loaded with food" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_damansara_food_leftover.JPG" alt="Leftover food that we are unable to load" %}
 
-The whole car is full of food now. 
+The Kechara person in charge then tell us that they will have people collect the rest today (one day after our second day volunteering at Kechara Food Kitchen). 
 
-They then depart from Tesco Damansara and go to the destinated location in Puchong.
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/car1_food.JPG" alt="Car loaded with full of foods" %}
+
+The car is now loaded with full of food. We then depart from the Tesco Damansara and head over to our destination, which is PJ Caring Home. 
 
 ### Tesco Kepong
 
-Neoh and I also depart to Kepong Tesco with Neoh's car. Both of us use Waze too because both of us are not familiar with the direction. 
+### PJ Caring Home 
 
-*One shalt not imagine life without Waze*
+Both of our team navigate to the destination by using Waze. Unfortunately, the destination are not exactly at the destination indicate by Waze, but it is few road across from the destination indicated by Waze. We found it out by asking the Kechara person in charge. The person in charge give us the address of PJ Caring Home and we are able to find it after around 10 minutes. 
 
-**Some fun fact** 
+We then take turn to reverse enter our car into PJ Caring Home to unlaod the food. 
 
-*Durign the journey to the Kepong Tesco, I play with Neoh's car player which comes with the bluetooth. I pair it with my device and try to play some song from Spotify. The integration of Spotify with the player is so good that it will show the song name in the player and it can control previous or next song from the player.*
+First, we unlaod the food from the car and place it near the front entrance of PJ Caring Home. 
 
-Finally we had reach the Kepong Tesco. 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading1.JPG" alt="Unloading food from car" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/tesco_kepong_loading_bay.jpg" alt="Tesco Kepong loading bay" %}
+We then move the food to the entrance of the backend area (by using backend, I mean by all the work are done there, which include storing and preparing food). 
 
-We had been told by the person in charge to wait for a while. So we wait there for around 10-20 minutes. 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading2.JPG" alt="Entrance of backend area" %}
 
-Finally they come out with the food that needed to deliver. We then do the same thing, which is pack them into the recycle bag and load it into the car.
+Depending on the food type, it will be move to different places. For type of food which can be consume directly such as bread or donuts, it will be unloaded at the table beside the area where we place the food. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car2_food1.jpg" alt="Car loaded with food" %}
+From the image, we can see Teong is unloading the bread with a old lady from the PJ Caring Home. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/car2_food2.jpg" alt="Car loaded with food" %}
+Anything other than that, such as raw food, it will be move to the entrance of the storage. 
 
-The food from Tesco Kepong are relatively lesser than the amount of food from Tesco Damansara. Could it be pure luck or faith had lead us to the Tesco with lesser food? If we went to the Tesco Damansara, the car might not be big enough to fetch. 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading3.JPG" alt="Entrance of storage" %}
 
-We then depart from Tesco Kepong to the same destination with the other group. 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading4.JPG" alt="Entrance of storage" %}
 
-### Puchong destination
+They then unload the food into the storage and return us the recycle bag. 
 
-Finally both of us had reach the destination and unload all the food to the person in charge. 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_recycle_bag_retrieve.JPG" alt="Retrieved recycle bags" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/food_delivered.JPG" alt="Food delivered" %}
-
-There are so many surplus food from Tesco every single day. Imagine if Tesco would not had collaborate with Kechara Food Kitchen, all of these food which are still consumeable would went to waste. Sometimes, solving a issue does not necessary mean that we need to solve it in the global scale, by these two parties simply collaborating with each other, numbers of people had benefited from it and hence creating a happier and better world. 
+We then return the document provided by Tesco and these recycle bag back to Kechara Food Kitchen office. 
 
 **More information**
 
