@@ -53,6 +53,16 @@ The car is now loaded with full of food. We then depart from the Tesco Damansara
 
 ### Tesco Kepong
 
+Teong and Ong depart from Kechara Food Kitchen office to Tesco Kepong. Both of them also uses Waze to navigate to the destination. 
+
+Shortly after that, they reach Tesco Kepong. Before they go into loading bay, they almost went into accident due to unfamiliar with the road before the entrance to the loading bay. They then went inside the loading bay. 
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_kepong_loading_bay1.JPG" alt="Tesco Kepong loading bay" %}
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/tesco_kepong_loading_bay2.JPG" alt="Tesco Kepong loading bay" %}
+
+After that, they load the food onto the car and depart to the common destination, which is PJ Caring Home. 
+
 ### PJ Caring Home 
 
 Both of our team navigate to the destination by using Waze. Unfortunately, the destination are not exactly at the destination indicate by Waze, but it is few road across from the destination indicated by Waze. We found it out by asking the Kechara person in charge. The person in charge give us the address of PJ Caring Home and we are able to find it after around 10 minutes. 
@@ -67,15 +77,19 @@ We then move the food to the entrance of the backend area (by using backend, I m
 
 {% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading2.JPG" alt="Entrance of backend area" %}
 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading3.JPG" alt="Entrance of backend area" %}
+
 Depending on the food type, it will be move to different places. For type of food which can be consume directly such as bread or donuts, it will be unloaded at the table beside the area where we place the food. 
 
 From the image, we can see Teong is unloading the bread with a old lady from the PJ Caring Home. 
 
 Anything other than that, such as raw food, it will be move to the entrance of the storage. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading3.JPG" alt="Entrance of storage" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading4.JPG" alt="Moving food to storage" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading4.JPG" alt="Entrance of storage" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading5.JPG" alt="Entrance of storage" %}
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/pj_caring_home_unloading6.JPG" alt="Entrance of storage" %}
 
 They then unload the food into the storage and return us the recycle bag. 
 
