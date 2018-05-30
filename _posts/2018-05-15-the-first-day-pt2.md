@@ -9,9 +9,9 @@ comments: false
 
 # Part 2
 
-It's been a numberof days since the first volunteering in Kechara Food Kitchen and blog update. 
+It's been a number of days since the first volunteering in Kechara Food Kitchen and blog update. 
 
-In part 1, we had cover the first half of the day, which is Food Surplus pick up from Tesco. In this blog, we will be covering the second half of the day, which is Food distributoon at Medan Tuanku and Anjung Singgah. 
+In part 1, we had cover the first half of the day, which is Food Surplus pick up from Tesco. In this blog, we will be covering the second half of the day, which is Food distribution at Medan Tuanku and Anjung Singgah. 
 
 ## Going back
 
