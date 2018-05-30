@@ -25,7 +25,7 @@ After passing the document and recycle bag to the office, we go to have our dinn
 
 After our dinner, we went to Anjung Singgah. When we reach the destination, we saw there are few other volunteer from other university, which is Inti University. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/food_distribution_reaching.jpeg" alt="Inti University volunteer" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/food_distribution_reaching.JPG" alt="Inti University volunteer" %}
 
 They wear Inti University uniform and standing there discussing with each other. We then approach by a senior volunteer and been told that we will be assigned with job scope in a while. 
 
@@ -37,9 +37,9 @@ We had cover some job scope available last time, so I will not cover it again. T
 
 After the job scope assignment, we then setup the venue. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/setup1.jpeg" alt="Setup" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/setup1.JPG" alt="Setup" %}
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/setup2.jpeg" alt="Setup" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/setup2.JPG" alt="Setup" %}
 
 ### Authentication booth
 
