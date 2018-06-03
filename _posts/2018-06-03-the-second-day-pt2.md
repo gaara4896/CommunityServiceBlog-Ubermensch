@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Second Day part 2
+title: The Second Day part 2 [Updated]
 category: Volunteer Work
 comments: false
 ---
@@ -45,6 +45,10 @@ After the job scope assignment, we then setup the venue.
 
 Teong and I went to authentication booth. There is a senior at the booth, and he is responsible to communicate directly with the client. Teong are responsible to check the client database and I am repsonsible to look for their card and check the incomplete file. 
 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/authentication_booth1.png" alt="Authentication Booth" %}
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/authentication_booth2.png" alt="Authentication Booth" %}
+
 What happen is basically when any client do not have the Kechara card with them, they are directed to the booth. The senior will ask them for their IC or similar document and Teong will type their IC number in the computer to search for their information. If found, they will be given a temporary card to receive food or receive doctor treatment. I will also look for their card if they had not receive their card before. 
 
 However, if their name is not found, they will be asked if they had register before. The senior will then direct them accordingly. The senior will also direct them to other place accordingly if he found that they had lost their card so they can reissue a new card. 
@@ -53,7 +57,9 @@ However, if their name is not found, they will be asked if they had register bef
 
 Food distribution booth are fairly simple. Neoh, Ong and Xytro stand at the food distribution booth. Food distribution function in a pipeline.
 
-At the begining, Neoh will check their card, can be either temporary card or Kechara card. Then they will move Ong, which will give them a box of rice and a bread. After that, they will move on to Xytro which will give them some biscuit. 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180526/food_distribution_booth.png" alt="Food Distribution Booth" %}
+
+At the begining, the senior will check their card, can be either temporary card or Kechara card. Then they will move to Xytro who will give them some biscuit and bread. After that, they will move on to Ong and Neoh who they will give them a box of rice. 
 
 ### Wrapping Up
 
