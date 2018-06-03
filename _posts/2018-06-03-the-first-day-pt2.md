@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The First Day part 2
+title: The First Day part 2 [Updated]
 category: Volunteer Work
 comments: false
 ---
@@ -71,6 +71,10 @@ Neoh and I went to the Authentication booth with another senior Kechara voluntee
 
 The senior Kechara Volunteer are in charge of looking at their Kechara card or check their ic or name in the client database. She will also in charge with asking them about their card or had they register before. Neoh Wei are in the second position, he will be in charge with searching for the client card if the client had register for more than one month and had yet receive their card. If their card found, he will give them their card. I am in charge with searching in a file for people name who are not found within the client database. Within the file are the registration form of those which had insufficient information and needed to be resummit in the future once insufficient information had been given. I am also in charge will taking photo of the ic and picture of those who want to reissue their card as they had lost their card. 
 
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/authentication_booth.jpg" alt="Authentication Booth" %}
+
+Senior are the female sitting in front of the computer and me sitting at the most left of the image. Neoh sitting at the left of senior which is outside of the photo. This photo are actually found in Kechara Facebook page so we are not the one who took the photo and hence no control over who went inside the photo. 
+
 During the period there are a lot of things happen. There are this person who is a foreigner, get very angry after being told that he had yet being registered into the system despite claiming that he had register for more than 3 times. He then walk away without getting any foods. 
 
 Besides, there are also one client who when we search his name in the database, he is being rejected. All 3 of us do not know how to tell him about it, so we look for another senior to tell him about the fact that he is being rejected. The senior then come and says: "Minggu lepas saya sudah bagi tahu lu kena reject mah". The client get offended and defensive after hearing what he say and start swearing some curse word. The client then look at me and say "Ini boss away ka" and walk away. 
@@ -82,6 +86,10 @@ Besides, there are also people who register in other booth and claim food in thi
 Xytro, Ong and Teong went to their registration booth. Unfortunately, Ong did not get a registration booth like Xytro and Teong did, so he need to sit on the chair inside the crowd to register the client. 
 
 During the registration of the client, some of them had meet people who we had only heard of them in either some movie or it just seems impossible to us. 
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/registration_booth.jpg" alt="Registration Booth" %}
+
+Xytro are the one at most left of photo and Teong sit beside him. Ong are sitting at the back of the table, bowing down filling up the registration form. 
 
 Ong, who had met a client who went into jail for few times and had addicted to drug more than 10 years. The client regret for what happen in the past, but being introduced to drug, he then addicted to it and can't stop taking drug after that. He had a difficult life after release from jail. He is old and been in prison, no people would want to hire him and hence ending up as a homeless. 
 
@@ -96,6 +104,12 @@ They also met many other client such as ending up homeless because finishing all
 Finally, the day had come to an end. All of us start wrapping up the venue and we then go back to our home. 
 
 {% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/wrap_up.JPG" alt="Wrap up" %}
+
+### Finally
+
+Here a group photo that we took before going home.
+
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180505/group_photo.jpg" alt="Group Photo" %}
 
 **More information**
 
