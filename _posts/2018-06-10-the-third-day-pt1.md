@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The third day pt1
+title: The Third Day part 1
 category: Volunteer Work
 comments: false
 ---
