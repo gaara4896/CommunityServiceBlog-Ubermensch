@@ -61,7 +61,7 @@ Neoh, Ong and Xytro then went to the food distribution booth. Different from las
 
 Throughout the activity, the venue are crowded with people. 
 
-{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180602/register_and_doctor.PNG" alt="Crowded with people" %}
+{% include image.html src="https://raw.githubusercontent.com/gaara4896/CommunityServiceBlog-Ubermensch/gh-pages/images/20180602/register_and_doctor.JPG" alt="Crowded with people" %}
 
 It is also a rather special day where there are volunteer volunteering to provide haircut to the homeless. 
 

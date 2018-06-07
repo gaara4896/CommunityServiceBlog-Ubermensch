@@ -19,11 +19,11 @@ All of us decided to gather at the entrance of the Kechara Food Kitchen office a
 
 After we being told the Tesco that we are heading and the destination of the day, we collect the recycle bag and head to our respective Tesco being assigned. 
 
-The Tesco that are assigned for us is Tesco Kepong and Tesco Damansara. According to our previous experience, Tesco Damansara has more food surplus and would need more people, so Xytro, Neoh and me went to Tesco Damansara while Ong and Teong went to Tesco Kepong. 
+The Tesco that are assigned for us is Tesco Kepong and Tesco Damansara. According to our previous experience, Tesco Damansara has more food surplus and would need more people, so Xytro and I went to Tesco Damansara while Ong, Neoh and Teong went to Tesco Kepong. 
 
 ### Tesco Damansara
 
-3 of us then depart form the venue to Tesco Damansara. We open up the Waze and follow the route being assigned by Waze and play some music from Spotify. Some of the road are having traffic jam due to the rain, so it took us some time to reach the destination. 
+2 of us then depart form the venue to Tesco Damansara. We open up the Waze and follow the route being assigned by Waze and play some music from Spotify. Some of the road are having traffic jam due to the rain, so it took us some time to reach the destination. 
 
 After slightly more than half an hour, we reach the entrance of the loading bay of Tesco Damansara. 
 
@@ -53,7 +53,7 @@ The car is now loaded with full of food. We then depart from the Tesco Damansara
 
 ### Tesco Kepong
 
-Teong and Ong depart from Kechara Food Kitchen office to Tesco Kepong. Both of them also uses Waze to navigate to the destination. 
+Teong, Neoh and Ong depart from Kechara Food Kitchen office to Tesco Kepong. Both of them also uses Waze to navigate to the destination. 
 
 Shortly after that, they reach Tesco Kepong. Before they go into loading bay, they almost went into accident due to unfamiliar with the road before the entrance to the loading bay. They then went inside the loading bay. 
 
